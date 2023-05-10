@@ -1,0 +1,28 @@
+# Django project
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+media/
+
+# Virtual environment
+venv/
+.env
+
+# IDE/Editor specific
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.pyc
+Thumbs.db
+.DS_Store
+
+# Testing
+.coverage
+htmlcov/
+
+# Dependency management
+pip-selfcheck.json
+requirements.txt
